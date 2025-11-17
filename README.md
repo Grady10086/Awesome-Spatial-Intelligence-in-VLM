@@ -35,9 +35,10 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 
 
 ## Methods
-### Visual based methods
+### Visual-based methods
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: 
+| <br/>[Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images](https://arxiv.org/abs/2511.07222) | <img width="700" alt="image" src="imgs/Omni-View.png"> | 2025-101 | [Github](https://jkhu29.github.io/omni_view/) |
 | <br/>[Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](https://arxiv.org/pdf/2510.27606) | <img width="700" alt="image" src="imgs/SpatialSSRL.png"> | 2025-10 | [Github](https://github.com/InternLM/Spatial-SSRL) |
 | <br/>[Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation](https://arxiv.org/abs/2510.08673) | <img width="700" alt="image" src="imgs/Puffin.png"> | 2025-10 | [Github](https://kangliao929.github.io/projects/puffin/) |
 | <br/>[Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/html/2510.18632) | <img width="700" alt="image" src="imgs/3DThinker.png"> | 2025-10 | [Github](https://github.com/zhangquanchen/3DThinker) |
@@ -83,7 +84,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 | <br/>[3DAxiesPrompts: Unleashing the 3D Spatial Task Capabilities of GPT-4V](https://arxiv.org/abs/2312.09738) |   <img width="700" alt="image" src="imgs/Axies.png">   | 2023-12 |    -   |
 
 
-### Text based methods
+### Text-based methods
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: |
 | <br/>[Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/abs/2501.07542) |   <img width="700" alt="image" src="imgs/MVoT.png">   | 2025-01 |   -       |
@@ -95,9 +96,10 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 
 
 ## Datasets & Benchmarks
-### Visual based
+### Visual-based data
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
+|  <br/>[Visual Spatial Tuning](https://arxiv.org/pdf/2511.05491) |   <img width="700" alt="image" src="imgs/VST.png">   | 2025-11 |          [Github](https://github.com/Yangr116/VST) |
 |  <br/>[DSI-Bench: A Benchmark for Dynamic Spatial Intelligence](https://arxiv.org/abs/2510.18873) |   <img width="700" alt="image" src="imgs/DSI-Bench.png">   | 2025-10 |          [Github](https://dsibench.github.io/) |
 |  <br/>[Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes](https://arxiv.org/pdf/2510.19400) |   <img width="700" alt="image" src="imgs/MV-RoboBench.png">   | 2025-10 |           - |
 |  <br/>[NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions](https://arxiv.org/abs/2510.08173) |   <img width="700" alt="image" src="imgs/NavSpace.png">   | 2025-10 |        [Github](https://navspace.github.io/#NavSpace-Leaderboard)  |
@@ -163,7 +165,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 |  [![Publish](https://img.shields.io/badge/Conference-IJCAI'24-blue)]()<br/>[Reframing Spatial Reasoning Evaluation in Language Models: A Real-World Simulation Benchmark for Qualitative Reasoning](https://arxiv.org/abs/2405.15064) |   <img width="700" alt="image" src="imgs/RoomSpace.png">   | 2024-05 |             [Github](https://github.com/Fangjun-Li/RoomSpace)          |
 |   [![Publish](https://img.shields.io/badge/Conference-ACL'22-blue)]()[![Star](https://img.shields.io/github/stars/xxxiaol/spatial-commonsense.svg?style=social&label=Star)]()<br/>[Things not Written in Text: Exploring Spatial Commonsense from Visual Signals](https://arxiv.org/abs/2203.08075) |   <img width="700" alt="image" src="imgs/common.png">   | 2022-03 |   [Github](https://github.com/xxxiaol/spatial-commonsense)
 |  [![Publish](https://img.shields.io/badge/Conference-CVPR'20-blue)]()<br/>[SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings](https://arxiv.org/abs/2003.14034) |   <img width="700" alt="image" src="imgs/SPARE3D.jpg">   | 2020-03 |             [Github](https://github.com/ai4ce/spare3d)          |
-### Text based
+### Text-based data
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
 |  <br/>[Do Multimodal Language Models Really Understand Direction? A Benchmark for Compass Direction Reasoning](https://arxiv.org/abs/2412.16599) |   <img width="700" alt="image" src="imgs/CDR.png">   | 2024-12 |      -
